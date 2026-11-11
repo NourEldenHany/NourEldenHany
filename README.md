@@ -1,62 +1,98 @@
+# 👋 Welcome to my GitHub Profile!
+
 <h3 align="center">
-  Welcome to Nour Elden Hany's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Nour Elden Hany | Software Engineer
 </h3>
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Computer%20Science%20Student;Now%20is%20Better%20To%20Start&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-  <br>
-  <img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/2/424575fe9318e72b134a8994de3331043586294bff1965b941d949b335be507a.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240420%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240420T132124Z&amp;X-Amz-Expires=86400&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=d03de365f433c9c402bb3fe40611c9353d35adcefd77bb5dec94e17665a636a4" alt="" loading="lazy" style="">
-</p> 
+  <a href="https://readme-typing-svg.herokuapp.com">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=.NET+Backend+Developer;Software+Engineer;Building+Reliable+Backend+Systems;Exploring+System+Design+%26+DevOps&font=Fira+Code&center=true&width=600&height=45&color=36BCF7&vCenter=true&size=20" />
+  </a>
+</p>
 
-## 🚀 Who Am I?  
-🔹 **.NET Backend Developer**  
-🔹 **Instructor for C++ at Planit**  
-🔹 **Community Leader at Developer Student Clubs (DSC)**  
-🔹 **Passionate about problem-solving & software Development**  
-🔹 **Creating content on C++ & C# to help others learn**  
+## 🚀 About Me
 
-💡 Always exploring new technologies and improving system designs!  
+I'm a Software Engineer with **2+ years of hands-on experience** building backend systems and web applications, primarily using **C# and ASP.NET Core**.
 
-###
-<h3 align="left">Social :</h3>
+My experience includes designing and developing RESTful APIs, implementing authentication and authorization, working with relational and non-relational databases, and integrating real-time communication and background processing.
 
-###
+- 💻 .NET Backend Developer focused on ASP.NET Core and C#.
+- 🏗️ Interested in Software Architecture, System Design, and scalable backend systems.
+- ⚙️ Experienced with Docker, CI/CD, Linux, and deployment workflows.
+- 🌐 Exploring frontend development with React and Next.js.
+- 🤝 Former Chapter Lead at DSC Community – El Shorouk Academy.
+- 🎓 Former Programming Instructor at PlanIT Software School.
 
-<div align="left">
-  <a href="http://www.linkedin.com/in/noureldenhany/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+I'm continuously improving my engineering skills and exploring technologies that help me build reliable, maintainable software.
+
+## 🛠️ Tech Stack
+
+### Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet" />
+</p>
+
+**C# · .NET · ASP.NET Core · Web API · Entity Framework Core · LINQ · SignalR · Hangfire**
+
+### Databases & Caching
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+</p>
+
+**SQL Server · PostgreSQL · MySQL · MongoDB · Redis**
+
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+</p>
+
+**HTML · CSS · JavaScript · TypeScript · React · Next.js · Bootstrap · Tailwind CSS**
+
+### DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,linux,nginx,git,github,postman" />
+</p>
+
+**Docker · Docker Compose · Kubernetes · GitHub Actions · Linux · Nginx · Git · GitHub · Postman · Swagger**
+
+## 📌 Areas of Interest
+
+- Software Architecture & Design Patterns
+- System Design & Distributed Systems
+- Database Design & Performance
+- Microservices & Event-Driven Architecture
+- DevOps & CI/CD Automation
+- Reliable and Maintainable Backend Engineering
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NourEldenHany&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NourEldenHany&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NourEldenHany&theme=tokyonight&hide_border=true" />
+</p>
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/noureldenhany/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  </a>
+  <a href="https://github.com/NourEldenHany" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="40" />
   </a>
   <a href="https://www.youtube.com/channel/UCJ70r4VUEnuY8cLVu1M9U8w" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" width="40" />
   </a>
-  
+</p>
 
-</div>
+📧 **Email:** NourElden.Dev@gmail.com
 
-###
+---
 
-<h3 align="left">Technologies :</h3>
-
-###
-
-
-<div align="left">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40"  width="40" alt="dotnetcore logo" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" width="40" alt="dot-net logo"  />
- 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="git logo"  />
- 
-  <img src="https://skillicons.dev/icons?i=github" height="40"  width="40" alt="GitHub logo"  />
-  
-</div>
-<br>
-
-
-[![My GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=NourElden20&show_icons=true&theme=dark&title_color=ff000c&text_color=ffffff&icon_color=ff000c&bg_color=000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NourElden20&label=Profile%20views&color=0e75b6&style=flat" alt="NourElden20" /> </p>
+<p align="center">
+  <i>Building, learning, and improving — one commit at a time.</i>
+</p>
